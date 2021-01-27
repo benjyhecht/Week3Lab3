@@ -18,5 +18,6 @@
             <input type="submit" value="submit">
         </form>
             <p>${ageMessage}</p>
+            <a href="Arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
